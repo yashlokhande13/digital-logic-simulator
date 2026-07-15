@@ -1,2 +1,2 @@
 # digital-logic-simulator
-first project
+First Project
